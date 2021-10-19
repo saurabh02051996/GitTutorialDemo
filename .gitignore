@@ -1,0 +1,4 @@
+*.log
+Dir/
+db.accdb
+first_renamed-copy
